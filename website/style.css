@@ -15,6 +15,7 @@ body {
     color: rgb(17, 0, 255);
     padding: 20px;
     text-align: center;
+    z-index: 500;
 }
 
 
