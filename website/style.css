@@ -75,3 +75,25 @@ body {
     color: rgb(17, 0, 255);
     text-align: center;  
 }
+
+.content{
+    text-align: center;
+    height: 30px;
+    margin: 10px;
+}
+
+.sectionone{
+    text-align: center;
+    height: 30px;
+    margin: 10px;
+    padding: 200px;
+    background-color: blue;
+}
+
+.sectiontwo{
+    text-align: center;
+    height: 30px;
+    margin: 10px;
+    padding: 200px;
+    background-color: rgb(23, 153, 45);
+}
